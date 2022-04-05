@@ -158,7 +158,7 @@ In order to release it, we need to add some tests for it to make sure we are del
         "@types/node": "^12.0.0",
         "chai": "^4.2.0",
         "cross-env": "^7.0.2",
-        "dotenv": "^8.2.0",
+        "dotenv": "^16.0.0",
         "eslint": "^7.15.0",
         "karma-chrome-launcher": "^3.0.0",
         "karma-coverage": "^2.0.0",
